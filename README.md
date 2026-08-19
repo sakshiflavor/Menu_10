@@ -3,7 +3,7 @@
   <link rel="stylesheet" href="styles/style.css"/>
   <title>Chaat Puchka SahakarNagar Menu </title>
 
-<body style="background-color: gray;">
+<body style="background-color: black;">
    <div style="text-align: center;">
   <a href="https://i.postimg.cc/ZYcQbYd7/IMG-20260807-144451.jpg">
     <img src="https://i.postimg.cc/SsSZBQ9q/1000037254-removebg-preview.png" alt="Description" style="width: 300px;">
@@ -16,29 +16,29 @@
     Makka Mug
     <br>
     <h3>
-<p style="word-spacing: 180px; text-align: Center;">Butter_Salted ₹70</p>
-  <p style="word-spacing: 210px; text-align: Center;">Kali_Mirch     ₹85</p>
-      <p style="word-spacing: 150px; text-align: Center;">Tandoori_Masala ₹95</p>   
-      <p style="word-spacing: 160px; text-align: Center;">Cheese_Makka ₹120</p>
+<p style="word-spacing: 180px; text-align: Center; color: white;">Butter_Salted ₹70</p>
+  <p style="word-spacing: 210px; text-align: Center; color: white;">Kali_Mirch     ₹85</p>
+      <p style="word-spacing: 150px; text-align: Center; color: white;">Tandoori_Masala ₹95</p>   
+      <p style="word-spacing: 160px; text-align: Center; color: white;">Cheese_Makka ₹120</p>
       
       <br>
-      <h2 style="text-align: Center; color: white;">
+   <h2 style="text-align: Center; color: white;">
     Nachos
     <br>
       </h2>
       <h3>
       
-      <p style="word-spacing: 140px; text-align: Center;">Nachos_With_Dip ₹130</p>
+   <p style="word-spacing: 140px; text-align: Center; color: white;">Nachos_With_Dip ₹130</p>
         
         <br>
-      <h2 style="text-align: Center; color: white;">
+  <h2 style="text-align: Center; color: white;">
     Chaat Puchka Special
     <br>
       </h2>
       <h3>
-      <p style="word-spacing: 200px; text-align: Center;">Indori_Poha ₹90</p>
-      <p style="word-spacing: 170px; text-align: Center;">Tandoor_Spiral ₹90</p>
-      <p style="word-spacing: 205px; text-align: Center;">CP_Special ₹100</p>
+   <p style="word-spacing: 200px; text-align: Center; color: white;">Indori_Poha ₹90</p>
+      <p style="word-spacing: 170px; text-align: Center; color: white;">Tandoor_Spiral ₹90</p>
+      <p style="word-spacing: 205px; text-align: Center; color: white;">CP_Special ₹100</p>
       
  </h3>
     <br>
